@@ -23,7 +23,7 @@ https://docs.google.com/spreadsheets/d/1hwwbTI5L6CP8p9QvDQuaptHFP3XNfZB2cN5BtwZc
 https://docs.google.com/spreadsheets/d/1w8hgNkuy6QjLcvqS3igCGfXG8qX1d15lXEDIrsbwPuc/edit#gid=274575715
 ```
 
-## How to use ##
+### How to use ###
 - [x] Import datasets from csv using DB Browser for SQLite
 - [x] Get the key statistics of the datasets using aggregate functions
 - [x] Manipulate the DB (add columns, join tables)
